@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.10.0 - 2025-04-08
+## 3.10.0 - 2025-04-09
 - Relax field requirements in ``perf_send``.
 
 ## 3.9.0 - 2025-04-02
